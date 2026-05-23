@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?q=80&w=1200&auto=format&fit=crop" alt="Giovanni Iadelise Banner" width="100%">
+  <img src="INCOLLA_IL_LINK_QUI" alt="Giovanni Iadelise Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 What's up? I'm Giovanni Iadelise!</h1>
