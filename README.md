@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IadeliseGiovanni/IadeliseGiovanni/main/banner.png" alt="Giovanni Iadelise Banner" width="100%">
+  <img src="INCOLLA_QUI_IL_LINK_CHE_TI_GENERA_GITHUB_QUANDO_TRASCINI_L_IMMAGINE" alt="Giovanni Iadelise Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 What's up? I'm Giovanni Iadelise!</h1>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Sono un **Full Stack Developer & Data Engineer** con esperienza consolidata nella gestione di dati complexes e nello sviluppo di soluzioni software enterprise. Ho un forte background nella progettazione di database relazionali e nell'automazione di pipeline di *Data Ingestion* (Apache NiFi, Talend). 
+Sono un **Full Stack Developer & Data Engineer** con esperienza consolidata nella gestione di dati complessi e nello sviluppo di soluzioni software enterprise. Ho un forte background nella progettazione di database relazionali e nell'automazione di pipeline di *Data Ingestion* (Apache NiFi, Talend). 
 
 Recentemente mi sono specializzato nello sviluppo Full Stack con **Java 21 LTS, Spring Boot 3.x e Angular 17+**, combinando competenze di backend architetturale con moderne interfacce frontend.
 
@@ -33,7 +33,7 @@ Recentemente mi sono specializzato nello sviluppo Full Stack con **Java 21 LTS, 
 
 ### 🡪 Backend Development
 * **Linguaggi & Framework:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/Spring_Boot-66DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
   (Java 21 LTS, Spring Boot 3.x, REST API, Spring Security, JPA/Hibernate)
 * **Architetture:** Progettazione di architetture backend scalabili seguendo i principi **SOLID** e **Clean Code**.
 
