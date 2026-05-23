@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300/0d1117/ffffff?text=Giovanni+Iadelise++|++Full+Stack+Developer" alt="Giovanni Iadelise Banner" width="100%">
+  <img src="banner.png" alt="Giovanni Iadelise Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 What's up? I'm Giovanni Iadelise!</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/IL_TUO_LINK_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanni-iadelise/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:iadelisegiovanni2000@gmail.com">
@@ -32,16 +32,21 @@ Recentemente mi sono specializzato nello sviluppo Full Stack con **Java 21 LTS, 
 ## 🛠️ Core Skills & Stack Tecnologico
 
 ### 🡪 Backend Development
-* **Linguaggi & Framework:** Java 21 LTS, Spring Boot 3.x, REST API, Spring Security, JPA/Hibernate.
+* **Linguaggi & Framework:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  (Java 21 LTS, Spring Boot 3.x, REST API, Spring Security, JPA/Hibernate)
 * **Architetture:** Progettazione di architetture backend scalabili seguendo i principi **SOLID** e **Clean Code**.
 
 ### 🡪 Frontend Development
-* **Tecnologie:** Angular 17+, TypeScript 5.x, HTML5, CSS3, Responsive Design.
+* **Tecnologie:** <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  (Angular 17+, TypeScript 5.x, HTML5, CSS3, Responsive Design)
 
 ### 🡪 Data Engineering & Automation
-* **Strumenti:** Apache NiFi, Talend, modellazione database (PostgreSQL, MySQL), ottimizzazione query.
-* **Scripting:** Python (OOP), PHP, automazione processi aziendali.
+* **Strumenti:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  (Apache NiFi, Talend, modellazione database PostgreSQL/MySQL, ottimizzazione query, Python OOP, PHP)
 
-### 🡪 DevOps, Tools & Visualization
-* **DevOps:** Docker, Git/GitHub, Maven, JUnit 5, ambienti Linux (Ubuntu).
-* **BI & Data Viz:** Creazione di dashboard interattive con Apache Superset.
+### 🡪 DevOps & Tools
+* **DevOps:** <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> 
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=flat-square&logo=git&logoColor=white" alt="Git">
+  (Docker, Git/GitHub, Maven, JUnit 5, ambienti Linux Ubuntu, Apache Superset)
