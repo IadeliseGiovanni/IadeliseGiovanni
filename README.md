@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="INCOLLA_IL_LINK_QUI" alt="Giovanni Iadelise Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ladeliseGiovanni/ladeliseGiovanni/main/banner.png" alt="Giovanni Iadelise Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 What's up? I'm Giovanni Iadelise!</h1>
@@ -43,10 +43,10 @@ Recentemente mi sono specializzato nello sviluppo Full Stack con **Java 21 LTS, 
   (Angular 17+, TypeScript 5.x, HTML5, CSS3, Responsive Design)
 
 ### 🡪 Data Engineering & Automation
-* **Strumenti:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+* **Strumenti:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&square&logo=python&logoColor=white" alt="Python">
   (Apache NiFi, Talend, modellazione database PostgreSQL/MySQL, ottimizzazione query, Python OOP, PHP)
 
 ### 🡪 DevOps & Tools
 * **DevOps:** <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> 
   <img src="https://img.shields.io/badge/GIT-E44D26?style=flat-square&logo=git&logoColor=white" alt="Git">
-  (Docker, Git/GitHub, Maven, JUnit 5, ambienti Linux Ubuntu, Apache Superset)
+  (Docker, Git/GitHub, Maven, JUnit 5, environments Linux Ubuntu, Apache Superset)
