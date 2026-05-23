@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="INCOLLA_QUI_IL_LINK_CHE_TI_GENERA_GITHUB_QUANDO_TRASCINI_L_IMMAGINE" alt="Giovanni Iadelise Banner" width="100%">
+  <img src="INCOLLA_QUI_IL_LINK_DELL_ISSUE" alt="Giovanni Iadelise Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 What's up? I'm Giovanni Iadelise!</h1>
